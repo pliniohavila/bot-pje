@@ -29,6 +29,9 @@ Exemplo:
 5000000-91.2021.8.13.0556
 ```
 
+## Para executar o _bot_
+
+
 ```shel
 node index.js
 ```
