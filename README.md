@@ -19,6 +19,16 @@ Foi construído voltado para o TJMG, não testei sua compatibilidade com o PJE d
 
 ## Para executar 
 
+A lista de processos deve estar em arquivo "_.txt_" localizado na pasta "_/process_". 
+Cada número de processo nesse arquivo deve estar em uma linha. Não pode existir qualquer simbolo além do número do processo. 
+
+Exemplo:
+```txt
+5000000-40.2022.8.13.0556
+5000000-46.2022.8.13.0556
+5000000-91.2021.8.13.0556
+```
+
 ```shel
 node index.js
 ```
